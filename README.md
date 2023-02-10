@@ -2,4 +2,4 @@
 ### **Abstract:** 
 Mental stress can pose health risks and affect our daily lives. This study aimed to investigate the use of wearable biosensors for real-time stress detection. The WESAD dataset, which includes bio-signals such as acceleration, respiration, electrodermal activity, ECG, temperature, electromyogram, and blood volume pulse, was analyzed using multiple machine learning models. The results showed that the XGBoost algorithm with hyperparameter tuning produced the best results. The XGBoost algorithm provided the highest accuracy (98.8%) when using a combination of 5 bio-signals (acceleration, EDA, ECG, temperature, and respiration). EDA was found to be the most significant bio-signal for stress detection. The findings highlight the potential of wearable biosensors in detecting stress in real-time environments and could help prevent numerous health problems related to stress by providing early detection and valuable insights.
 
-Link  to  the [Paper](https://drive.google.com/file/d/1RaV8g67h3eC-HIlkBZ38MyH2CDUk9DA5/view?usp=sharing)
+Link  to  the [Paper](https://drive.google.com/file/d/1jTglMzNxEVqLL_9OYPj9UPXnjTZsGbxF/view?usp=sharing)
